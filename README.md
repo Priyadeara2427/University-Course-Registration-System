@@ -85,7 +85,11 @@ Waitlisted students are updated dynamically as seats become available!
 | **Seat Allotment Module**| - Core courses allotment<br>- Elective courses allotment<br>- Waitlisting students<br>- Updates seat availability    | `Allotment.bin`, `Core_details.bin`, `Elective_details.bin`, `Waitlist.bin` |
 
 
-
+Contributors:
+1. Priya Verma
+2. Monish Kumar
+3. Naveen Agarwal
+   
 ### 🎉 Happy Coding! 🚀
 Feel free to contribute or report issues in the issues section! 😊
 
