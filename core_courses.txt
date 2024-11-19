@@ -1,0 +1,312 @@
+CSE,1,CS1101,Mathematics I,Mahipal Sharma,Rohit Sharma,Abishek Bannerjee
+CSE,1,CS1102,Physics I,Nisha Desai,Nidhi Singh,Aarav Patel
+CSE,1,CS1103,Chemistry,Arjun Kumar,Kavya Menon,Akshay Nair
+CSE,1,CS1104,Introduction to Computing,Aishwarya Rao,Sanjay Pillai,Ananya Krishnan
+CSE,1,CS1105,Engineering Graphics,Rahul Reddy,Meera Iyer,Vikram Chandrasekhar
+CSE,1,CS1106,Basic Electrical Engineering,Nandini Menon,Surya Srinivasan,Sneha Prasad
+CSE,2,CS2101,Mathematics II,Mahipal Sharma,Rohit Sharma,Abishek Bannerjee
+CSE,2,CS2102,Physics II,Priya Ranganathan,Vivek Balakrishnan
+CSE,2,CS2103,Engineering Mechanics,Lakshmi Venkatesh,Ravi Kumar,Swathi Raman
+CSE,2,CS2104,Thermodynamics,Vinay Patel,Shruti Natarajan,Rajesh Menon
+CSE,2,CS2105,Basic Electronics Engineering,Anusha Suresh,Manoj Krishnamurthy,Vandana Sharma
+CSE,2,CS2106,Engineering Graphics,Harish Raghavan,Deepa Nair,Siddharth Rao
+CSE,3,CS3101,Mathematics III,Mahipal Sharma,Rohit Sharma,Abishek Bannerjee
+CSE,3,CS3102,Object-Oriented Programming with Java,Ganesh Iyer,Lavanya Venugopal,Sathish Menon
+CSE,3,CS3103,Computer Organization and Architecture,Pooja Naidu,Arvind Chandran,Anjali Soman
+CSE,3,CS3104,Database Management Systems,Rajesh Pillai,Vaishnavi Srinivas,Aditya Singh
+CSE,3,CS3105,Data Communication and Computer Networks,Revathi Venkataraman,Rakesh Kumar,Archana Krishnan
+CSE,3,CS3106,Operating Systems,Ashwin Iyer,Kalyani Nair,Karthick Ramachandran
+CSE,4,CS4101,Mathematics IV,Mahipal Sharma,Rohit Sharma,Abishek Bannerjee
+CSE,4,CS4102,Analysis and Design of Algorithms,Pranav Rajan,Divya Gupta,Karthik Iyer
+CSE,4,CS4103,Microprocessors and Microcontrollers,Kala Krishnan,Praveen Kumar,Bhavana Rajagopal
+CSE,4,CS4104,Software Engineering,Ramya Nandakumar,Prakash Venkat,Gayathri Krishnamoorthy
+CSE,4,CS4105,Computer Graphics,Vignesh Balaji,Keerthi Mohan,Madhu Ramanathan
+CSE,4,CS4106,Unix and Shell Programming,Sharon Bincy,Shalini Krishnan,Aravind Menon
+CSE,5,CS5101,Computer Networks,Ashwin Iyer,Kalyani Nair,Karthick Ramachandran
+CSE,5,CS5102,Compiler Design,Sangeetha Subramanian,Naveen Kumar,Malini Sridharan
+CSE,5,CS5103,Artificial Intelligence,Manjunath Prasad,Sowmya Iyengar,Vinod Rajagopalan
+CSE,5,CS5104,Web Technologies,Jayashree Sundaram,Kiran Rao,Anuradha Suresh
+CSE,5,CS5105,Software Testing and Quality Assurance,Deepak Venugopalan,Indira Iyer,Sunil Krishnan
+CSE,5,CS5106,Cryptography and Network Security,Asha Anand,Pradeep Menon,Meenakshi Nair
+CSE,6,CS5101,Distributed Systems,Shankar Chandrasekar,Hemalatha Ramaswamy,Krishna IyengarRajani Pillai
+CSE,6,CS5102,Cloud Computing,Ramya Nandakumar,Prakash Venkat,Gayathri Krishnamoorthy
+CSE,6,CS5103,Machine Learning,Revathi Venkataraman,Rakesh Kumar,Archana Krishnan
+CSE,6,CS5104,Big Data Analytics,Satish Kumar,Mamatha Natarajan,Vijay Sharma
+CSE,6,CS5105,Internet of Things,Saranya Krishnan,Anil Kumar,Sujatha Menon
+CSE,6,CS5106,Mobile Computing,Manu Nair,Uma Srinivasan,Ramesh Varma
+CSE,7,CS7101,Cyber Security,Ananya Krishnan,Vivek Balakrishnan,Sneha Prasad
+CSE,7,CS7102,Natural Language Processing,Karthik Iyer,Priya Ranganathan,Surya Srinivasan
+CSE,7,CS7103,Blockchain Technology,Arjun Kumar,Kavya Menon,Sanjay Pillai
+CSE,7,CS7104,Open Elective III,Nandini Menon,Vikram Chandrasekhar,Meera Iyer
+CSE,7,CS7105,Project Work Phase I,Rahul Reddy,Aishwarya Rao,Vinay Patel
+CSE,7,CS7106,Open Source Systems,Jayalakshmi Iyer,Arun Venkatesh,Sumathi Krishnamurthy
+CSE,8,CS8101,Project Work Phase II,Lakshmi Venkatesh,Ravi Kumar,Swathi Raman
+CSE,8,CS8102,Industrial Training,Ganesh Iyer,Lavanya Venugopal,Sathish Menon
+CSE,8,CS8103,Entrepreneurship Development Programme,Pooja Naidu,Arvind Chandran,Anjali Soman
+CSE,8,CS8104,Comprehensive Viva Voce,Rajesh Menon,Anusha Suresh,Manoj Krishnamurthy
+CSE,8,CS8105,Industrial Management,Dinesh Iyengar,Jyothi Raghavan,Mohan Kumar
+CSE,8,CS8106,Open Source Systems,Deepika Menon,Ganapathy Narayanan,Shanthi Subramanian
+IT,1,IT1101,Mathematics I,Suresh Kumar,Deepika Sharma,Rajesh Singh
+IT,1,IT1102,Physics I,Anita Patel,Vivek Gupta,Priya Shah
+IT,1,IT1103,Chemistry,Rahul Mehta,Kavita Singh,Amit Sharma
+IT,1,IT1104,Introduction to Computing,Asha Gupta,Rajesh Verma,Sunita Dubey
+IT,1,IT1105,Engineering Graphics,Manoj Kumar,Meera Devi,Ramesh Gupta
+IT,1,IT1106,Basic Electrical Engineering,Shalini Singh,Sandeep Kumar,Neeta Sharma
+IT,3,IT3101,Mathematics III,Sanjay Kumar,Anita Gupta,Rajesh Verma
+IT,3,IT3102,Object-Oriented Programming with Java,Anita Sharma,Ajay Singh,Vivek Patel
+IT,3,IT3103,Computer Organization and Architecture,Deepak Kumar,Sneha Singh,Amit Patel
+IT,3,IT3104,Discrete Mathematics,Ajay Sharma,Anjali Verma,Rajesh Kumar
+IT,3,IT3105,Database Management Systems,Neelam Patel,Anil Singh,Deepika Sharma
+IT,3,IT3106,Data Communication and Computer Networks,Vikas Kumar,Anita Verma,Anil Singh
+IT,2,IT2101,Mathematics II,Ravi Kumar,Anjali Gupta,Vikas Sharma
+IT,2,IT2102,Physics II,Anjali Verma,Amit Singh,Neelam Patel
+IT,2,IT2103,Data Structures,Deepak Sharma,Anita Verma,Rajesh Kumar
+IT,2,IT2104,Digital Logic Design,Rajesh Verma,Deepika Singh,Vivek Gupta
+IT,2,IT2105,Basic Electronics Engineering,Ritu Sharma,Ajay Kumar,Vidya Patel
+IT,2,IT2106,Environmental Studies,Vikram Singh,Meena Patel,Rajesh Verma
+IT,4,IT4101,Mathematics IV,Rajesh Singh,Deepika Gupta,Suresh Kumar
+IT,4,IT4102,Analysis and Design of Algorithms,Anjali Sharma,Vivek Singh,Anil Patel
+IT,4,IT4103,Microprocessors and Microcontrollers,Neelam Patel,Amit Verma,Rajesh Kumar
+IT,4,IT4104,Software Engineering,Anil Kumar,Anita Singh,Deepak Sharma
+IT,4,IT4105,Computer Graphics,Rajesh Verma,Anjali Gupta,Ajay Singh
+IT,4,IT4106,Theory of Computation,Anita Patel,Vivek Kumar,Deepika Singh
+IT,5,IT5101,Computer Networks,Vivek Sharma,Anjali Singh,Rajesh Patel
+IT,5,IT5102,Compiler Design,Deepika Singh,Rajesh Kumar,Anil Patel
+IT,5,IT5103,Artificial Intelligence,Anjali Gupta,Anil Kumar,Anita Singh
+IT,5,IT5104,Web Technologies,Rajesh Verma,Vivek Singh,Anjali Patel
+IT,5,IT5105,Software Testing and Quality Assurance,Suresh Kumar,Deepika Gupta,Vivek Sharma
+IT,5,IT5106,Cryptography and Network Security,Anjali Singh,Anil Patel,Rajesh Kumar
+IT,6,IT6101,Distributed Systems,Anita Patel,Rajesh Kumar,Vivek Singh
+IT,6,IT6102,Cloud Computing,Deepika Singh,Anil Patel,Anjali Gupta
+IT,6,IT6103,Machine Learning,Anil Kumar,Anita Singh,Anjali Verma
+IT,6,IT6104,Big Data Analytics,Vivek Sharma,Anjali Patel,Rajesh Verma
+IT,6,IT6105,Internet of Things,Rajesh Kumar,Deepika Gupta,Anil Patel
+IT,6,IT6106,Mobile Computing,Anjali Singh,Rajesh Verma,Vivek Sharma
+IT,7,IT7101,Cyber Security,Deepika Singh,Anil Patel,Anjali Gupta
+IT,7,IT7102,Natural Language Processing,Anita Patel,Vivek Sharma,Rajesh Kumar
+IT,7,IT7103,Blockchain Technology,Rajesh Verma,Anjali Singh,Anil Patel
+IT,7,IT7104,Open Elective III,Anita Singh,Vivek Sharma,Deepika Gupta
+IT,7,IT7105,Project Work Phase I,Anjali Patel,Anil Kumar,Rajesh Verma
+IT,8,IT8101,Project Work Phase II,Vivek Sharma,Anjali Gupta,Rajesh Kumar
+IT,8,IT8102,Industrial Training / In-Plant Training,Rajesh Verma,Deepika Singh,Anil Patel
+IT,8,IT8103,Entrepreneurship Development Programme,Anita Patel,Vivek Sharma,Anjali Gupta
+IT,8,IT8104,Comprehensive Viva Voce,Anil Kumar,Rajesh Verma,Deepika Singh
+IT,8,IT8105,Communication Skills,Raghu Menon,Janani Nair,Vijayakumar Venkataraman
+IT,8,IT8105,Open Source Systems,Yamuna Nair,Subramanian Iyer,Geetha Menon
+MECH,1,ME1101,Mathematics I,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+MECH,1,ME1102,Physics I,Ranjith Kumar,Divya Reddy,Arjun Menon
+MECH,1,ME1103,Chemistry,Shalini Raghavan,Vivek Nair,Meenakshi Rao
+MECH,1,ME1104,Introduction to Computing,Deepa Balan,Ajay Menon,Nandini Iyer
+MECH,1,ME1105,Engineering Graphics,Rajesh Kumar,Anusha Srinivasan,Suresh Nair
+MECH,1,ME1106,Basic Electrical Engineering,Meera Menon,Siddharth Raghavan,Akshay Reddy
+MECH,2,ME2101,Mathematics II,Divya Menon,Rajesh Iyer,Anjali Raghavan
+MECH,2,ME2102,Physics II,Arjun Nair,Sneha Reddy,Vijay Kumar
+MECH,2,ME2103,Engineering Mechanics,Vivek Menon,Deepika Rao,Rahul Krishnan
+MECH,2,ME2104,Thermodynamics,Anusha Naidu,Ajay Menon,Meenakshi Rajan
+MECH,2,ME2105,Material Science,Siddharth Iyer,Shalini Nair,Krishna Menon
+MECH,2,ME2106,Basic Electronics Engineering,Rajesh Menon,Divya Kumar,Arjun Reddy
+MECH,3,ME3101,Mathematics III,Anjali Menon,Krishna Kumar,Shalini Iyer
+MECH,3,ME3102,Fluid Mechanics,Rahul Nair,Divya Menon,Arjun Iyer
+MECH,3,ME3103,Mechanics of Solids,Meenakshi Kumar,Vivek Naidu,Siddharth Menon
+MECH,3,ME3104,Manufacturing Processes,Suresh Menon,Deepa Reddy,Rajesh Iyer
+MECH,3,ME3105,Electrical Machines,Anusha Kumar,Ajay Nair,Meera Iyer
+MECH,3,ME3106,Introduction to Programming,Vijay Menon,Divya Nair,Arjun Kumar
+MECH,4,ME4101,Mathematics IV,Arjun Iyer,Vivek Kumar,Meenakshi Menon
+MECH,4,ME4102,Heat and Mass Transfer,Rajesh Naidu,Siddharth Reddy,Divya Kumar
+MECH,4,ME4103,Kinematics of Machinery,Shalini Kumar,Anjali Naidu,Rahul Reddy
+MECH,4,ME4104,Manufacturing Technology,Arjun Menon,Vivek Nair,Meera Menon
+MECH,4,ME4105,Dynamics of Machinery,Divya Iyer,Rajesh Kumar,Anusha Menon
+MECH,4,ME4106,Electrical and Electronics Measurements,Siddharth Menon,Deepa Reddy,Suresh Kumar
+MECH,5,ME5101,Finite Element Analysis,Deepak Nair,Anusha Kumar,Rajesh Iyer
+MECH,5,ME5102,Refrigeration and Air Conditioning,Anjali Menon,Arjun Reddy,Divya Menon
+MECH,5,ME5103,Turbo Machines,Rahul Kumar,Meera Reddy,Siddharth Menon
+MECH,5,ME5104,Machine Tools and Operations,Shalini Naidu,Vivek Kumar,Meenakshi Menon
+MECH,5,ME5105,Automobile Engineering,Arjun Menon,Divya Nair,Rajesh Reddy
+MECH,5,ME5106,Power Plant Engineering,Anusha Kumar,Arjun Kumar,Deepa Reddy
+MECH,6,ME6101,Design of Machine Elements,Meera Menon,Arjun Kumar,Siddharth Menon
+MECH,6,ME6102,Operations Research,Divya Nair,Anusha Kumar,Rajesh Reddy
+MECH,6,ME6103,Robotics,Rajesh Naidu,Meenakshi Menon,Shalini Kumar
+MECH,6,ME6104,Mechatronics,Arjun Menon,Divya Nair,Anusha Kumar
+MECH,6,ME6105,CAD/CAM/CIM,Rajesh Reddy,Rajesh Naidu,Meera Menon
+MECH,6,ME6106,Total Quality Management,Anjali Kumar,Deepak Nair,Arjun Kumar
+MECH,7,ME7101,Finite Element Analysis and Computational Fluid Dynamics Lab,Siddharth Menon,Rajesh Reddy,Meera Menon
+MECH,7,ME7102,Project Work Phase I,Divya Nair,Arjun Kumar,Anusha Menon
+MECH,7,ME7103,Industrial Engineering,Anjali Kumar,Krishna Reddy,Shweta Menon
+MECH,7,ME7104,Managerial Economics and Financial Analysis,Krishna Menon,Shalini Nair,Arjun Kumar
+MECH,7,ME7105,Control Engineering,Rajesh Naidu,Shalini Menon,Anjali Kumar
+MECH,7,ME7106,Seminar,Arjun Reddy,Divya Nair,Meera Menon
+MECH,8,ME8101,Project Work Phase II,Anusha Menon,Arjun Kumar,Divya Nair
+MECH,8,ME8102,Industrial Training / In-Plant Training,Rajesh Reddy,Siddharth Menon,Meera Menon
+MECH,8,ME8103,Entrepreneurship Development Programme,Divya Nair,Anusha Menon,Arjun Kumar
+MECH,8,ME8104,Comprehensive Viva Voce,Meera Menon,Rajesh Reddy,Siddharth Menon
+MECH,8,ME8105,Workshop Practice,Anjali Nair,Vivek Krishnan,Deepak Menon
+MECH,8,ME8106,Communication Skills,Karthik Naidu,Shweta Kumar,Prakash Menon
+ECE,1,EC1101,Mathematics I,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+ECE,1,EC1102,Physics I,Ranjith Kumar,Divya Reddy,Arjun Menon
+ECE,1,EC1103,Chemistry,Shalini Raghavan,Vivek Nair,Meenakshi Rao
+ECE,1,EC1104,Introduction to Electronics,Deepa Balan,Ajay Menon,Nandini Iyer
+ECE,1,EC1105,Engineering Graphics,Rajesh Kumar,Anusha Srinivasan,Suresh Nair
+ECE,1,EC1106,Basic Electrical Engineering,Meera Menon,Siddharth Raghavan,Akshay Reddy
+ECE,2,EC2101,Mathematics II,Divya Menon,Rajesh Iyer,Anjali Raghavan
+ECE,2,EC2102,Physics II,Arjun Nair,Sneha Reddy,Vijay Kumar
+ECE,2,EC2103,Network Analysis and Synthesis,Vivek Menon,Deepika Rao,Rahul Krishnan
+ECE,2,EC2104,Electronic Devices and Circuits,Anusha Naidu,Ajay Menon,Meenakshi Rajan
+ECE,2,EC2105,Basic Civil and Mechanical Engineering,Siddharth Iyer,Shalini Nair,Krishna Menon
+ECE,2,EC2106,Environmental Studies,Rajesh Menon,Divya Kumar,Arjun Reddy
+ECE,3,EC3101,Mathematics III,Divya Menon,Rajesh Iyer,Anjali Raghavan
+ECE,3,EC3102,Signals and Systems,Arjun Nair,Sneha Reddy,Vijay Kumar
+ECE,3,EC3103,Analog Circuits,Vivek Menon,Deepika Rao,Rahul Krishnan
+ECE,3,EC3104,Digital Electronics,Anusha Naidu,Ajay Menon,Meenakshi Rajan
+ECE,3,EC3105,Electromagnetic Fields,Siddharth Iyer,Shalini Nair,Krishna Menon
+ECE,3,EC3106,Semiconductor Devices,Rajesh Menon,Divya Kumar,Arjun Reddy
+ECE,4,EC4101,Mathematics IV,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+ECE,4,EC4102,Linear Integrated Circuits,Ranjith Kumar,Divya Reddy,Arjun Menon
+ECE,4,EC4103,Communication Theory,Shalini Raghavan,Vivek Nair,Meenakshi Rao
+ECE,4,EC4104,Microprocessors and Microcontrollers,Deepa Balan,Ajay Menon,Nandini Iyer
+ECE,4,EC4105,Control Systems,Rajesh Kumar,Anusha Srinivasan,Suresh Nair
+ECE,4,EC4106,Digital Signal Processing,Anjali Nair,Vivek Krishnan,Deepak Menon
+ECE,5,EC5101,Microwave Engineering,Divya Menon,Rajesh Iyer,Anjali Raghavan
+ECE,5,EC5102,VLSI Design,Arjun Nair,Sneha Reddy,Vijay Kumar
+ECE,5,EC5103,Electronic Instrumentation,Vivek Menon,Deepika Rao,Rahul Krishnan
+ECE,5,EC5104,Wireless Communication,Anusha Naidu,Ajay Menon,Meenakshi Rajan
+ECE,5,EC5105,Optical Communication,Siddharth Iyer,Shalini Nair,Krishna Menon
+ECE,5,EC5106,Embedded Systems,Rajesh Menon,Divya Kumar,Arjun Reddy
+ECE,6,EC6101,Digital Communication,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+ECE,6,EC6102,Radar and Navigational Aids,Ranjith Kumar,Divya Reddy,Arjun Menon
+ECE,6,EC6103,Audio and Video Systems,Shalini Raghavan,Vivek Nair,Meenakshi Rao
+ECE,6,EC6104,Satellite Communication,Deepa Balan,Ajay Menon,Nandini Iyer
+ECE,6,EC6105,Robotics and Automation,Rajesh Kumar,Anusha Srinivasan,Suresh Nair
+ECE,6,EC6106,Biomedical Instrumentation,Meera Menon,Siddharth Raghavan,Akshay Reddy
+ECE,7,EC7101,Internet of Things,Divya Menon,Rajesh Iyer,Anjali Raghavan
+ECE,7,EC7102,Artificial Intelligence in Electronics,Arjun Nair,Sneha Reddy,Vijay Kumar
+ECE,7,EC7103,Nanoelectronics,Vivek Menon,Deepika Rao,Rahul Krishnan
+ECE,7,EC7104,Industrial Management,Anjali Kumar,Deepak Menon,Rajesh Nair
+ECE,7,EC7105,Project Work Phase I,Siddharth Iyer,Shalini Nair,Krishna Menon
+ECE,7,EC7106,Antennas and Wave Propagation,Meera Menon,Siddharth Raghavan,Akshay Reddy
+ECE,8,EC8101,Project Work Phase II,Rajesh Menon,Divya Kumar,Arjun Reddy
+ECE,8,EC8102,Industrial Training / In-Plant Training,Anjali Kumar,Deepak Menon,Rajesh Nair
+ECE,8,EC8103,Entrepreneurship Development Programme,Karthik Naidu,Shweta Kumar,Prakash Menon
+ECE,8,EC8104,Comprehensive Viva Voce,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+ECE,8,EC8105,Pulse and Digital Circuits,Anjali Kumar,Deepak Menon,Rajesh Nair
+ECE,8,EC8106,Technical Communication,Anjali Kumar,Deepak Menon,Rajesh Nair
+EEE,1,EEE1101,Mathematics I,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+EEE,1,EEE1102,Physics I,Ranjith Kumar,Divya Reddy,Arjun Menon
+EEE,1,EEE1103,Chemistry,Shalini Raghavan,Vivek Nair,Meenakshi Rao
+EEE,1,EEE1104,Introduction to Electrical Engineering,Deepa Balan,Ajay Menon,Nandini Iyer
+EEE,1,EEE1105,Engineering Graphics,Rajesh Kumar,Anusha Srinivasan,Suresh Nair
+EEE,1,EEE1106,Basic Electronics Engineering,Meera Menon,Siddharth Raghavan,Akshay Reddy
+EEE,2,EE2101,Mathematics II,Divya Menon,Rajesh Iyer,Anjali Raghavan
+EEE,2,EE2102,Physics II,Arjun Nair,Sneha Reddy,Vijay Kumar
+EEE,2,EE2103,Electrical Circuits Analysis,Vivek Menon,Deepika Rao,Rahul Krishnan
+EEE,2,EE2104,Electromagnetic Theory,Anusha Naidu,Ajay Menon,Meenakshi Rajan
+EEE,2,EE2105,Basic Civil and Mechanical Engineering,Siddharth Iyer,Shalini Nair,Krishna Menon
+EEE,2,EE2106,Electrical Materials,Anjali Kumar,Deepak Menon,Rajesh Nair
+EEE,3,EE3101,Mathematics III,Divya Menon,Rajesh Iyer,Anjali Raghavan
+EEE,3,EE3102,Electrical Machines I,Arjun Nair,Sneha Reddy,Vijay Kumar
+EEE,3,EE3103,Analog Electronic Circuits,Vivek Menon,Deepika Rao,Rahul Krishnan
+EEE,3,EE3104,Control Systems,Anusha Naidu,Ajay Menon,Meenakshi Rajan
+EEE,3,EE3105,Network Theory,Siddharth Iyer,Shalini Nair,Krishna Menon
+EEE,3,EE3106,Measurement and Instrumentation,Rajesh Menon,Divya Kumar,Arjun Reddy
+EEE,4,EE4101,Mathematics IV,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+EEE,4,EE4102,Electrical Machines II,Ranjith Kumar,Divya Reddy,Arjun Menon
+EEE,4,EE4103,Power Electronics,Shalini Raghavan,Vivek Nair,Meenakshi Rao
+EEE,4,EE4104,Digital Electronics,Deepa Balan,Ajay Menon,Nandini Iyer
+EEE,4,EE4105,Power System Analysis,Rajesh Kumar,Anusha Srinivasan,Suresh Nair
+EEE,4,EE4106,Microprocessors and Microcontrollers,Meera Menon,Siddharth Raghavan,Akshay Reddy
+EEE,5,EE5101,Transmission and Distribution,Divya Menon,Rajesh Iyer,Anjali Raghavan
+EEE,5,EE5102,Switchgear and Protection,Arjun Nair,Sneha Reddy,Vijay Kumar
+EEE,5,EE5103,Renewable Energy Sources,Vivek Menon,Deepika Rao,Rahul Krishnan
+EEE,5,EE5104,Electrical Machine Design,Anusha Naidu,Ajay Menon,Meenakshi Rajan
+EEE,5,EE5105,High Voltage Engineering,Siddharth Iyer,Shalini Nair,Krishna Menon
+EEE,5,EE5106,Industrial Drives and Control,Rajesh Menon,Divya Kumar,Arjun Reddy
+EEE,5,EE5108,Mini Project,Karthik Naidu,Shweta Kumar,Prakash Menon
+EEE,6,EE6101,Power System Operation and Control,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+EEE,6,EE6102,Power System Protection,Ranjith Kumar,Divya Reddy,Arjun Menon
+EEE,6,EE6103,Utilization of Electrical Energy,Shalini Raghavan,Vivek Nair,Meenakshi Rao
+EEE,6,EE6104,Power System Planning,Deepa Balan,Ajay Menon,Nandini Iyer
+EEE,6,EE6105,Electric Traction,Rajesh Kumar,Anusha Srinivasan,Suresh Nair
+EEE,6,EE6106,FACTS and HVDC Transmission,Meera Menon,Siddharth Raghavan,Akshay Reddy
+EEE,7,EE7101,Power System Dynamics,Divya Menon,Rajesh Iyer,Anjali Raghavan
+EEE,7,EE7102,Smart Grid Technology,Arjun Nair,Sneha Reddy,Vijay Kumar
+EEE,7,EE7103,Renewable Energy Integration,Vivek Menon,Deepika Rao,Rahul Krishnan
+EEE,7,EE7104,Industrial Management,Anjali Kumar,Deepak Menon,Rajesh Nair
+EEE,7,EE7105,Project Work Phase,Anjali Nair,Vivek Krishnan,Deepak Menon
+EEE,7,EE7106,Communication Skills,Karthik Naidu,Shweta Kumar,Prakash Menon
+EEE,8,EE8101,Project Work Phase II,Rajesh Menon,Divya Kumar,Arjun Reddy
+EEE,8,EE8102,Industrial Training / In-Plant Training,Anjali Kumar,Deepak Menon,Rajesh Nair
+EEE,8,EE8103,Entrepreneurship Development Programme,Karthik Naidu,Shweta Kumar,Prakash Menon
+EEE,8,EE8104,Comprehensive Viva Voce,Krishna Murthy,Rajeshwari Naidu,Siddharth Rajan
+EEE,8,EE8105,Power Generation Techniques,Anjali Nair,Vivek Krishnan,Deepak Menon
+EEE,8,EE8106,Technical Communication,Anjali Kumar,Deepak Menon,Rajesh Nair
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
